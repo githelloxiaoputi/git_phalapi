@@ -8,7 +8,7 @@
 	    }
 	}
 	然后composer update进行更新
-3.	默认入口位置
+3.	默认入口位置是
 	public/index.php
 4.	访问方式	注意点：?s=Class.Action等效于?service=Class.Action，两者都存在时优先使用service参数
 	1. ?s=Site.Index，省略命名空间，默认使用App
